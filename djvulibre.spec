@@ -1,7 +1,7 @@
 Summary:	DjVu viewers, encoders and utilities
 Name:		djvulibre
 Version:	3.5.25.3
-Release:	2
+Release:	3
 License:	GPL
 Group:		Applications/Graphics
 Source0:	http://downloads.sourceforge.net/djvu/%{name}-%{version}.tar.gz
